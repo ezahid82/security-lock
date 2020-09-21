@@ -1,11 +1,17 @@
 # security-lock
-## Security-box 
-### Ezhar Zahid
 
-make a finger recognized lock for cabinet or a locker.
+
+## Security-box 
+
+make a finger recognized lock for cabinet or a locker
+
+
+## Picture
+![one of the walls](images/one of the walls.png)
+
 
 *for safety*
 
 :rocket:
 
-Picture
+
