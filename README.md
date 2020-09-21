@@ -7,7 +7,7 @@ make a finger recognized lock for cabinet or a locker
 
 
 ## Picture
-![A Wall](images/one of the walls.png)
+![one of the walls image](images/one of the walls.png)
 
 
 
