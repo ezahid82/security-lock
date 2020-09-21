@@ -10,6 +10,9 @@ make a finger recognized lock for cabinet or a locker
 ![a wall](images/one of the walls.png)
 
 
+
+### Safety
+
 *for safety*
 
 :rocket:
