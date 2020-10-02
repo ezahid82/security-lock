@@ -10,7 +10,7 @@ make a finger recognized lock for cabinet or a locker
 
 ### Videos 
 
-![The security system](images/security%20lock..png)
+![The security system](images/Security%20lock..mp4)
 
 ### Picture
 
